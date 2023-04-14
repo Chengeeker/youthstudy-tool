@@ -16,8 +16,8 @@ on:
     - cron: '0 4 * * *'
 
 env:
-  MEMBER: ${{ secrets.mid=5294504 }}
-  PUSHTOKEN: ${{ secrets.PUSHTOKEN=yes }}
+  MEMBER: ${{ secrets.mid-5294504 }}
+  PUSHTOKEN: ${{ secrets.PUSHTOKEN-yes }}
 
 jobs:
   youthstudymark:
