@@ -16,7 +16,7 @@ on:
     - cron: '0 4 * * *'
 
 env:
-  MEMBER: ${{ secrets.5294504 }}
+  MEMBER: ${{ secrets.mid 5294504 }}
   PUSHTOKEN: ${{ secrets.PUSHTOKEN }}
 
 jobs:
